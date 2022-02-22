@@ -343,3 +343,51 @@ nav {
   font-family: "Open Sans", sans-serif;
   border: none;
 }
+
+footer {
+  position: absolute;
+  width: 1440px;
+  height: 240px;
+  left: 230px;
+  bottom: -1630px;
+  background: #141a20;
+}
+
+.sech4 {
+  position: absolute;
+  width: 59px;
+  height: 15px;
+  left: 249px;
+  top: 42px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 11px;
+  line-height: 13px;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  letter-spacing: 0.846154px;
+  color: #ffffff;
+}
+
+.projlogo {
+  position: absolute;
+  width: 101.62px;
+  height: 23px;
+  left: 249px;
+  top: 76px;
+}
+
+.p8 {
+  position: absolute;
+  width: 250px;
+  height: 76px;
+  left: 249px;
+  top: 114px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 11px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.85px;
+  color: #ffffff;
+}
